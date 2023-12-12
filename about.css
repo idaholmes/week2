@@ -1,0 +1,49 @@
+h1 {
+    font-size: 42px;
+    color: blueviolet
+}
+
+/* starting with a purple/violet colorn scheme */
+
+h2 {
+    font-size: 30px;
+}
+
+td {
+    padding: 20px;
+}
+
+/* likewise, the padding is matching the width of the picture of the corgi above */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    space: none
+}
+
+table {
+    outline: 6px solid purple;
+}
+
+td {
+    outline: 3px solid blueviolet
+}
+
+ul {
+    list-style-type: number;
+    margin-left: 20px;
+}
+
+img {
+    border: 6px solid purple;
+}
+
+/* matching the border style of the table also making all the images the same size as eash other for congruency*/
+.element {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* created for a "lifted appearance" I don't really see what it does though. May delete later. */
+
+
+
+/* about.css was a non HTML page used to create different styling on the about page. Research showed this was best practices when coding in HTML
