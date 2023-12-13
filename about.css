@@ -44,6 +44,9 @@ img {
 
 /* created for a "lifted appearance" I don't really see what it does though. May delete later. */
 
+form {
+    background-color: lightskyblue;
+}
 
 
 /* about.css was a non HTML page used to create different styling on the about page. Research showed this was best practices when coding in HTML
