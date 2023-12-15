@@ -30,7 +30,13 @@ td {
 
 ul {
     list-style-type: number;
-    margin-left: 20px;
+    margin: 5px;
+}
+
+/* made margin 5px to prevent it from being double spaced */
+
+li {
+    list-style-type: circle;
 }
 
 img {
@@ -45,8 +51,13 @@ img {
 /* created for a "lifted appearance" I don't really see what it does though. May delete later. */
 
 form {
-    background-color: lightskyblue;
+    background-color: purple;
+    color: azure;
+    width: 485px;
 }
 
+head {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
 
 /* about.css was a non HTML page used to create different styling on the about page. Research showed this was best practices when coding in HTML
