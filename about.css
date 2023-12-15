@@ -17,7 +17,10 @@ td {
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #333;
-    space: none
+}
+
+.list-spacing {
+    padding-bottom: 10px;
 }
 
 table {
@@ -30,10 +33,7 @@ td {
 
 ul {
     list-style-type: number;
-    margin: 5px;
 }
-
-/* made margin 5px to prevent it from being double spaced */
 
 li {
     list-style-type: circle;
